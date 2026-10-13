@@ -1,1 +1,2 @@
-Throwaway proof: a Nix binary cache, hosted flat as GitHub Release assets, with no Nix install or GitHub awareness baked into the consumer beyond nix.conf substituter/trusted-public-keys settings. Not part of Sprawl; kept for the record of what was tested.
+Scratch test: checking whether a GitHub Release can stand in for a Nix
+binary cache.
